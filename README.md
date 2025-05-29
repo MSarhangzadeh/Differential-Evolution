@@ -1,3 +1,1 @@
-Simple Differential Evolution Algorithm implementation
-
-I will also add Triple Competitve DE soon after debugging it
+I will add implementations of : Differential evolution, Matrix Based Differential Evolution Then i will add Lshade Matrix based L shade then I will add TCDE and Matrix based TCDE and also will publish a library in which u can use different operates in matrix based as a function to implement you own DE varients i will also add a novel DE after it is published
